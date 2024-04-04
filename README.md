@@ -1,4 +1,4 @@
-Attendance System Based on Face Recognition
+# Attendance System Based on Face Recognition
 
 This project implements a facial recognition-based attendance system using Python, OpenCV, NumPy and Dlib. The system reduces the time taken for manual attendance tracking by 80% and automatically records attendance data in an Excel sheet for easy access and analysis.
 
