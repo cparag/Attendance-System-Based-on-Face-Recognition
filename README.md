@@ -12,4 +12,4 @@ Features
 
 •	Captures attendance data along with timestamps and stores it in an Excel sheet.
 
-•	Provides real-time feedback on recognized and unrecognized faces. 
+•	Provides real time feedback on recognized and unrecognized faces. 
