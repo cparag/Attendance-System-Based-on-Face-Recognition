@@ -3,7 +3,7 @@ import numpy as np
 import face_recognition
 import os
 from datetime import datetime
-# from PIL import ImageGrab
+## from PIL import ImageGrab
  
 path = 'ImagesAttendance'
 images = []
